@@ -16,7 +16,9 @@
     "react": "15.4.1",
     "react-native": "0.39.2",
     "react-native-gifted-chat": "0.0.10",
-    "socket.io": "^1.7.2"
+    "sails.io.js": "^1.1.10",
+    "socket.io": "^1.7.2",
+    "socket.io-client": "^1.7.3"
   },
   "devDependencies": {
     "babel-jest": "18.0.0",
